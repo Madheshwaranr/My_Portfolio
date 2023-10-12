@@ -24,7 +24,7 @@ My website portfolio
 
 ### Computer View
 
-![alt text]()
+![alt text](portfolio.png)
 
 ### Mobile View
 
