@@ -13,13 +13,14 @@ I'm R. Madheshwaran, a Software engineer with a passion for problem-solving. Exp
 🌱 **Current Focus**: AWS services. Open to collaborations and new opportunities.
 
 📫 **Contact:**
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/madheshwaran-r-b6a454209)
-- Email: madheshravi2001@gmail.com
+
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/madheshwaran-r-b6a454209)
+
+Email: madheshravi2001@gmail.com
 
 Let's connect and create amazing things!
 
-[My website portfolio](https://your-website-link-here)
-
+My website portfolio
 
 ## Screenshots:
 
