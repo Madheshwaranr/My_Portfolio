@@ -24,7 +24,7 @@ My website portfolio
 
 ### Computer View
 
-![alt text]([portfolio.png]https://github.com/Madheshwaranr/My_Portfolio/blob/49545b0142548f3a5929731bc74f64b15a69f865/portfolio.png
+![alt text]([portfolio.png]https://github.com/Madheshwaranr/My_Portfolio/blob/49545b0142548f3a5929731bc74f64b15a69f865/portfolio.png)
 
 ### Mobile View
 
