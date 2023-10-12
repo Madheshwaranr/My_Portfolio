@@ -28,8 +28,8 @@ My website portfolio
 
 ### Mobile View
 
-![alt text]()
+![alt text](https://github.com/Madheshwaranr/My_Portfolio/blob/af1b4fb6897bc51341480c6a8e5128186690f7d1/Portfolio_Mobile_view.jpeg)
 
 ## Author
 
-- R. Madheshwaran ()
+- R. Madheshwaran (https://www.linkedin.com/in/madheshwaran-r-b6a454209)
