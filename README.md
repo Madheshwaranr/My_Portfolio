@@ -34,4 +34,4 @@ Let's connect and create amazing things!
 
 ## Author
 
-- R. Madheshwaran (https://www.linkedin.com/in/madheshwaran-r-b6a454209)
+- R. Madheshwaran
