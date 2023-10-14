@@ -2,23 +2,25 @@
 
 👋 Welcome to my GitHub portfolio!
 
-I'm R.Madheshwaran, a Software engineer with a passion for problem solving. Explore my collection of open-source projects and contributions, and join me in the world of coding.
+I'm R. Madheshwaran, a Software engineer with a passion for problem-solving. Explore my collection of open-source projects and contributions, and join me in the world of coding.
 
-🚀 Skills: Proficient in Java, Python, MySql with experience in Cloud Computing, data science, and databases. Let's code and build together!
+🚀 **Skills**: Proficient in Java, Python, MySQL with experience in Cloud Computing, data science, and databases. Let's code and build together!
 
-📂 Featured Projects:
-Project Name 1: Classification of Arrhythmia by Using Deep Learning with 2-D ECG Spectral Image Representation
-Project Name 2: Bus Identification for Visually Impaired People
+📂 **Featured Projects:**
+1. **Classification of Arrhythmia by Using Deep Learning with 2-D ECG Spectral Image Representation**
+2. **Bus Identification for Visually Impaired People**
 
-🌱 Current Focus: AWS services. Open to collaborations and new opportunities.
+🌱 **Current Focus**: AWS services. Open to collaborations and new opportunities.
 
-📫 Contact:
-LinkedIn: https://www.linkedin.com/in/madheshwaran-r-b6a454209
+📫 **Contact:**
+
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/madheshwaran-r-b6a454209)
+
 Email: madheshravi2001@gmail.com
+
 Let's connect and create amazing things!
 
-
-My website portfolio
+[My website portfolio](https://madheshwaranr.github.io/My_Portfolio/)
 
 ## Screenshots:
 
@@ -32,4 +34,4 @@ My website portfolio
 
 ## Author
 
-- R. Madheshwaran (https://www.linkedin.com/in/madheshwaran-r-b6a454209)
+- R. Madheshwaran
